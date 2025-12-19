@@ -10,8 +10,8 @@ Artifacts produced during my research into **phishing**.
 
 ## Artifacts
 
-| **Name** | **Description** | **Path** |
-| -------- | --------------- | -------- |
-|          |                 |          |
+| **Name** | **Description**              | **Path**                                             |
+| -------- | ---------------------------- | ---------------------------------------------------- |
+| **Echo** | Discord Bot For Command Exec | [Echo - Discord C2](Echo/Echo%20-%20Discord%20C2.md) |
 
 ---
