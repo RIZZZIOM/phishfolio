@@ -12,7 +12,7 @@ Artifacts produced during my research into **phishing**.
 
 | **Name** | **Description**              | **Path**                                             |
 | -------- | ---------------------------- | ---------------------------------------------------- |
-| **Echo** | Discord Bot For Command Exec | [Echo - Discord C2](Echo/Echo%20-%20Discord%20C2.md) |
+| **Echo** | Discord Bot For Command Exec | [Echo - Discord C2](Echo/README.md) |
 | **Domain Doppelganger** | Generate Look-Alike Domains | [Domain-Doppelganger](domain-doppelganger/README.md) |
 
 ---
