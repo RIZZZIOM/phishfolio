@@ -81,9 +81,9 @@ For **RAR** support, install `unrar`:
 
 1. Start the server:
 
-   ```bash
-   python nesthunter.py
-   ```
+```bash
+python nesthunter.py
+```
 
 2. Open browser to `http://localhost:5000`
 
