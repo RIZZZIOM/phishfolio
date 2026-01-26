@@ -15,5 +15,6 @@ Artifacts produced during my research into **phishing**.
 | **Echo**                | Discord Bot For Command Exec | [Echo - Discord C2](Echo/README.md)                  |
 | **Domain Doppelganger** | Generate Look-Alike Domains  | [Domain-Doppelganger](domain-doppelganger/README.md) |
 | **Bomber**              | Archive Bomb Creator         | [Bomber](bomber/README.md)                           |
+| **NestHunter**          | Nested Archive Analysis Tool | [NestHunter](nesthunter/README.md)                   |
 
 ---

@@ -1,0 +1,32 @@
+# NestHunter - Nested Archive Extraction & Analysis Tool
+# Requirements
+
+# Flask web framework
+Flask>=2.3.0
+Werkzeug>=2.3.0
+
+# Archive extraction libraries
+py7zr>=0.20.0          # 7z support
+rarfile>=4.1           # RAR support
+pycdlib>=1.13.0        # ISO support
+
+# MIME type detection
+python-magic-bin>=0.4.14  # Windows-compatible magic library
+# Note: On Linux/macOS, use 'python-magic' instead of 'python-magic-bin'
+# Linux: pip install python-magic && sudo apt-get install libmagic1
+# macOS: pip install python-magic && brew install libmagic
+
+# Note: For RAR extraction, you also need to install unrar:
+# - Windows: Install WinRAR or download unrar.dll and place in PATH
+# - Linux: sudo apt-get install unrar
+# - macOS: brew install unrar
+
+# VHD support (optional - Windows only or requires additional tools)
+# On Windows, can use PowerShell Mount-VHD
+# Cross-platform alternative: vhd (pip install vhd) - limited support
+
+# Standard library (no install needed):
+# - zipfile (ZIP)
+# - tarfile (TAR, TAR.GZ)
+# - gzip (GZIP)
+# - hashlib (hashing - MD5, SHA1, SHA256)
