@@ -40,7 +40,7 @@ Scores are color-coded in output:
 
 1. Clone the repository
 ```shell
-git clone https://github.com/RIZZZIOM/phishfolio/domain-doppelganger.git
+git clone https://github.com/RIZZZIOM/phishfolio
 cd domain-doppelganger
 ```
 
